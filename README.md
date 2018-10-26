@@ -4,9 +4,9 @@ in the paper "On the stability of persistent entropy and new summary
 functions for TDA".
 
 It requires:
-    - Matlab with Javaplex installed 
+  - Matlab with Javaplex installed 
         (http://appliedtopology.github.io/javaplex/)
-    - R with the TDA package
+  - R with the TDA package
         (https://cran.r-project.org/web/packages/TDA/index.html)
 
 
