@@ -19,7 +19,7 @@ partitions <- 250
 maxscale <- 2
 maxdimension <- 3
 n <- 40
-npc <- 2
+npc <- 9
 nc <- 10
 nname <- "circle"
 features.candidates <- list()
